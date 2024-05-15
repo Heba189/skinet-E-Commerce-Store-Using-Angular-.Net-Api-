@@ -70,3 +70,4 @@ E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\refint\API.
 E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\API.pdb
 E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\ref\API.dll
+E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\API.sourcelink.json

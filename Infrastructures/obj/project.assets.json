@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net7.0": {
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -355,7 +355,7 @@
       },
       "core/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/core.dll": {}
         },
@@ -921,7 +921,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
+    "net7.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "core >= 1.0.0"
@@ -934,11 +934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj",
+      "projectUniqueName": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj",
       "projectName": "Infrastructures",
-      "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj",
+      "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj",
       "packagesPath": "C:\\Users\\Ultimate\\.nuget\\packages\\",
-      "outputPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\obj\\",
+      "outputPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -948,14 +948,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
             "E:\\dream\\an e-commerce-app .net& angular\\skinet\\core\\core.csproj": {
               "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\core\\core.csproj"
@@ -975,8 +975,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -998,12 +998,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -15,3 +15,4 @@ E:\dream\an e-commerce-app .net& angular\skinet\Infrastructures\obj\Debug\net8.0
 E:\dream\an e-commerce-app .net& angular\skinet\Infrastructures\obj\Debug\net8.0\Infrastructures.pdb
 E:\dream\an e-commerce-app .net& angular\skinet\Infrastructures\obj\Debug\net8.0\Infrastructures.genruntimeconfig.cache
 E:\dream\an e-commerce-app .net& angular\skinet\Infrastructures\obj\Debug\net8.0\ref\Infrastructures.dll
+E:\dream\an e-commerce-app .net& angular\skinet\infrastructures\obj\Debug\net8.0\Infrastructures.sourcelink.json

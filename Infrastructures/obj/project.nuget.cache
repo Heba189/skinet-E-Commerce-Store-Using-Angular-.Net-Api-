@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8veQddwaRaWFmwJ0u4alZC+ZZn2Owg9XiaMaFPh53uVQEYCfiyOI1xtcM66hZylSgT8kOBcbg7sCMw54vR65ig==",
+  "dgSpecHash": "7hxGp/2LOdgSBCzv3gw3ACTAPWqeMo6ZSQJyXAp7oGMZxLjyR8EfcA1N+aE6OoPQGXs9PhOwvKK9xooTiODnCg==",
   "success": true,
   "projectFilePath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,10 @@
     "C:\\Users\\Ultimate\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Ultimate\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Ultimate\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Ultimate\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\Ultimate\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }
