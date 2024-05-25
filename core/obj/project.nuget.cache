@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aGagEkcxkoAtBEE1oy79pyxqOPq4xjMSjVUgg5lJIpkf8q6HJy2DtuHHQv+xhhs0Z1uDI5wzFqwBDSOpHRqqbw==",
+  "dgSpecHash": "CVqMBzrSqlXhEKmM4QYM576mOGD1VASCwSotBG2C8Quzf6d3RcnKGt/928rU5FvCmyH7Kp8tASXPfY319GbuwQ==",
   "success": true,
   "projectFilePath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\core\\core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

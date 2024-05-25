@@ -1,4 +1,5 @@
 using core;
+using core.Interfaces;
 using Infrastructures;
 using Infrastructures.Data;
 using Microsoft.EntityFrameworkCore;
@@ -15,6 +16,8 @@ builder.Services.AddDbContext<StoreContext>(opt => {
     opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,9 +27,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 //heba
-
+app.UseStaticFiles();
 app.UseAuthorization();
-
 app.MapControllers();
 
 using var scope =app.Services.CreateScope();

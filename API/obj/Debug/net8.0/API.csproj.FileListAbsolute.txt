@@ -71,3 +71,7 @@ E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\API.pdb
 E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\ref\API.dll
 E:\dream\an e-commerce-app .net& angular\skinet\API\obj\Debug\net8.0\API.sourcelink.json
+E:\dream\an e-commerce-app .net& angular\skinet\API\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\dream\an e-commerce-app .net& angular\skinet\API\bin\Debug\net8.0\AutoMapper.dll
+E:\dream\an e-commerce-app .net& angular\skinet\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\dream\an e-commerce-app .net& angular\skinet\API\bin\Debug\net8.0\API.staticwebassets.runtime.json

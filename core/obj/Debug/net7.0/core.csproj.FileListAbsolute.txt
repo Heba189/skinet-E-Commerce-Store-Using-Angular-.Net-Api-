@@ -5,8 +5,8 @@ E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.Gener
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.AssemblyInfo.cs
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
-E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.sourcelink.json
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.dll
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\refint\core.dll
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.pdb
 E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\ref\core.dll
+E:\dream\an e-commerce-app .net& angular\skinet\core\obj\Debug\net7.0\core.sourcelink.json
