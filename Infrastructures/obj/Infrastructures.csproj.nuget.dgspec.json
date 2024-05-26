@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj": {}
+    "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj": {}
   },
   "projects": {
     "E:\\dream\\an e-commerce-app .net& angular\\skinet\\core\\core.csproj": {
@@ -66,14 +66,14 @@
         }
       }
     },
-    "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj": {
+    "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj",
+        "projectUniqueName": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj",
         "projectName": "Infrastructures",
-        "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj",
+        "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj",
         "packagesPath": "C:\\Users\\Ultimate\\.nuget\\packages\\",
-        "outputPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\obj\\",
+        "outputPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

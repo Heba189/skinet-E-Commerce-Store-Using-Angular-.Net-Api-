@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBMq4jvwC1syJq5bYEMOXeviLzcCB5t99oLsWnSOtA9IRQK6KOsTgEM4fBgaporRmwt7ktDtkRJutfwDOkSpXw==",
+  "dgSpecHash": "7liAkOgdW28/IPouIqR+Xu6kO5Zq2zwkvqU1N5AnxwbC4zlPQD1Gd9SjrO7Qr0h11CIVP1I5/pyHd00GlcBjZw==",
   "success": true,
-  "projectFilePath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj",
+  "projectFilePath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ultimate\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ultimate\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
