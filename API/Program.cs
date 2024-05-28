@@ -30,6 +30,7 @@ if (app.Environment.IsDevelopment())
 }
 //heba
 app.UseStaticFiles();
+app.UseCors("CorsPolicy");
 app.UseAuthorization();
 app.MapControllers();
 

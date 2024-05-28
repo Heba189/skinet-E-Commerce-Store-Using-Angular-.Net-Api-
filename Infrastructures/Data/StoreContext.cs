@@ -4,6 +4,8 @@ using System.Reflection;
 using core;
 using core.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Storage;
+
 public class StoreContext : DbContext
 {
     public StoreContext(DbContextOptions options):base(options)
@@ -17,6 +19,16 @@ public class StoreContext : DbContext
 protected override void OnModelCreating(ModelBuilder modelBuilder){
     base.OnModelCreating(modelBuilder);
     modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+    //to solve decimal iisue in sqllite 
+    if(Database.ProviderName =="Microsoft.EntityFrameworkCore.Sqlite"){
+        foreach(var entity in modelBuilder.Model.GetEntityTypes()){
+            var properties = entity.ClrType.GetProperties().Where(p => p.PropertyType == typeof(decimal));
+            foreach(var property in properties){
+                modelBuilder.Entity(entity.Name).Property(property.Name).HasConversion<double>();
+            }   
+            
+        }
+    }
 }
 
 }
