@@ -1918,8 +1918,8 @@
     },
     "Infrastructures/1.0.0": {
       "type": "project",
-      "path": "../Infrastructures/Infrastructures.csproj",
-      "msbuildProject": "../Infrastructures/Infrastructures.csproj"
+      "path": "../infrastructures/Infrastructures.csproj",
+      "msbuildProject": "../infrastructures/Infrastructures.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1964,8 +1964,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj": {
-              "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\Infrastructures\\Infrastructures.csproj"
+            "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj": {
+              "projectPath": "E:\\dream\\an e-commerce-app .net& angular\\skinet\\infrastructures\\Infrastructures.csproj"
             }
           }
         }
